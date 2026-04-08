@@ -3,3 +3,5 @@ Pyrebase4
 PyPDF2
 google-generativeai
 streamlit-calendar
+google-api-python-client
+google-auth-oauthlib
