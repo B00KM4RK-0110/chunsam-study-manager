@@ -15,7 +15,7 @@ import os
 # 🔑 1. 개인 설정 및 금고 열쇠
 # ==========================================
 firebaseConfig = {
-    "apiKey": "AIzaSyB6ldiUhVfbjdru4fg1Vw34_uy2o8x24Dg",
+    "apiKey": "AIzaSyCyaaJ2QzS0wuh0n-VeI0HDgtNcKDUcL44",
     "authDomain": "chunsam-study-manager.firebaseapp.com",
     "projectId": "chunsam-study-manager",
     "storageBucket": "chunsam-study-manager.firebasestorage.app",
