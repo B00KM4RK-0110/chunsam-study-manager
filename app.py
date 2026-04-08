@@ -18,7 +18,7 @@ firebaseConfig = {
 }
 
 # 🚨 발급받은 Gemini API 키를 넣으세요!
-GEMINI_API_KEY = "AIzaSyBKFYiLhgexK2oFYwBjtfIFYUTqi2kiBAk"
+GEMINI_API_KEY = "AIzaSyCnelH4dr4p8JMzRbzzzKZgV935W3qw4os"
 # ==========================================
 
 firebase = pyrebase.initialize_app(firebaseConfig)
